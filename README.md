@@ -5,8 +5,11 @@
 
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
 
+- 📫 How to reach me **gonzalezruben681@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/rubén-darío-gonzález-pachón-06360868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rubén-darío-gonzález-pachón-06360868" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
