@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS,NodeJS,Figma**
 
-- 👨‍💻 All of my projects are available at [https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html](https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html)
+- 👨‍💻 All of my projects are available at (En desarrollo) [https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html](https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html)
 
 - 📫 How to reach me **gonzalezruben681@gmail.com**
 
