@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, Mi nombre es Rubén Darío González</h1>
 <h3 align="center">Apasionado por la tecnología y sus posibilidades.</h3>
 
-- 🌱 I’m currently learning **ReactJS,Python,Figma,Adobe XD**
+- 🌱 I’m currently learning **ReactJS,NodeJS,Figma**
 
-- 👨‍💻 All of my projects are available at () [https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html](https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html)
-
-- 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
+- 👨‍💻 All of my projects are available at [https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html](https://gonzalezruben681.github.io/portfolio_web.github.io/html/index.html)
 
 - 📫 How to reach me **gonzalezruben681@gmail.com**
 
